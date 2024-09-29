@@ -31,8 +31,7 @@ Translate: Click the Translate button, and the translated text will appear in th
 # To run the translator on your local machine:
 
 # 1. Clone the repository:
-   git clone https://github.com/your-username/multi-language-translator.git
-cd multi-language-translator
+   https://github.com/DEEPIKA020605/python--language-translator
 # 2. Install the dependencies:
 Make sure you have Python installed.
 Install the required package:
